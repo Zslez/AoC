@@ -1,5 +1,5 @@
 HARDEST SO FAR: (that I solved myself)
-part 2 of day 9
+all easy so far
 
 EASIEST SO FAR:
-day 6
+day 1

@@ -1,8 +1,3 @@
-# FUNCTIONS
-
-
-
-
 # MAIN
 
 # TASK 1
